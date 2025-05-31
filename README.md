@@ -22,7 +22,7 @@ SAFESENSE is a real-time accident detection and emergency response system based 
 1. Prevention Module: Detects driver unconsciousness or drowsiness using facial analysis (yawning, eye closure) and issues early alerts to prevent accidents. Can halt the vehicle automatically if driver is unconscious.
 2. Visual Detection (YOLOv8): Detect crashes, vehicle rollovers, smoke, fire, and fallen pedestrians from CCTV/ dashcams’ feeds.
 3. Audio Analysis (YAMNet): Screeching tires, crashes—detectable even in low-visibility conditions. 
-#### 4. ML-Based Severity Prediction: Force of impact, number of victims, presence of flames, victim condition to predict severity.
+** 4. ML-Based Severity Prediction: Force of impact, number of victims, presence of flames, victim condition to predict severity.**
 5. Emergency Dispatch Engine: Auto-routes ambulance using Google Maps API and notifies hospitals based on severity. 
 6. Crowd-Aid Module: Sends alerts to nearby verified users for immediate on-ground support before EMS arrives.
 
