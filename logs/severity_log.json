@@ -1,0 +1,34 @@
+[
+    {
+        "session_id": 1,
+        "start_time": "2025-05-02 09:35:22",
+        "status": "pending",
+        "detection_state": {
+            "fire": "No",
+            "smoke": "No",
+            "blood": "No",
+            "accident": "No",
+            "lying_person": "No"
+        },
+        "severity_score": 0,
+        "lat": 28.4962,
+        "lon": 77.536,
+        "location": "Greater Noida"
+    },
+    {
+        "session_id": 2,
+        "start_time": "2025-05-02 12:29:49",
+        "status": "ambulance enroute",
+        "detection_state": {
+            "fire": "Yes",
+            "smoke": "No",
+            "blood": "No",
+            "accident": "Yes",
+            "lying_person": "Yes"
+        },
+        "severity_score": 7,
+        "lat": 28.4962,
+        "lon": 77.536,
+        "location": "Greater Noida"
+    }
+]
