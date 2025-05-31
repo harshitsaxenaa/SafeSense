@@ -58,11 +58,15 @@ Follow these steps to run the code on your local system:
    ```bash
    pip install -r requirements.txt
 
-6. Run scripts:
+6. Run accident prevention script:
    ```bash
-   python main.py
+   python prevent.py 
 
-7. Open dashboards:
+7. Run accident detection script:
+   ```bash
+   python main.py 
+
+8. Open dashboards:
    ```bash
    streamlit run streamlit_app.py
    streamlit run ambulance_dashboard.py
