@@ -64,4 +64,6 @@ Follow these steps to run the code on your local system:
    streamlit run nearby_help_page.py
    streamlit run Location Mapping.py
    streamlit run first_aid_response.py
+   OR
+   run streamlit_run.bat
     
