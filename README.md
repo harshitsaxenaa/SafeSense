@@ -1,5 +1,6 @@
 ## Project Execution Result Video Link: 
 https://drive.google.com/file/d/1bBtus8Zff5HJA-OgjbsQkawmEcXI96O3/view?usp=sharing
+Accident Prevention Module: https://drive.google.com/file/d/1UIgWLIhtA0Z7nh_Ddh-hUO9gukot6vN6/view?usp=sharing
 
 ## Problem Statement: 
 India witnesses over 4.6 lakh road accidents every year, leading to significant fatalities due to delayed emergency response. Traditional systems rely on human intervention, manual reporting, and are reactive instead of predictive. Emergency response delays occur due to lack of real-time accident detection, severity estimation, and proactive prevention measures. No integrated platform combines vehicle data, video, audio, and AI-driven crowd-aid and first-aid guidance to trigger timely interventions and accident prevention.
